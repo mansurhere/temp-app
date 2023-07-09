@@ -21,4 +21,8 @@ public class TestController {
     public String test() {
         return "Hello";
     }
+
+    public String a(){
+        return "A";
+    }
 }
